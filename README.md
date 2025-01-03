@@ -39,7 +39,6 @@ Grocery Stores have the lowest total sales ($151.9k), while Supermarket Type 1 h
 The average sales for Grocery Stores, Supermarket Type 3, Supermarket Type 2, and Supermarket Type 1 are around $140–$142.
 
 **9. Count of Items Sold by Outlet Type:**
-
 Supermarket Type 1 had the highest number of items sold (5577), followed by Grocery Stores (1083), Supermarket Type 3 (935), and Supermarket Type 2 (928).
 
 ## Insights:
