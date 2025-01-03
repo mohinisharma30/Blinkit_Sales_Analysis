@@ -14,7 +14,7 @@ The outlet sold a total of 8,523 items, with an average rating of 4.0.
 **2. Total Sales by Fat Content:**
 Low Fat products contributed $776.3k to the total sales, while Regular products accounted for $425.4k.
 
-Blinkit_Dashboard.png
+![image](https://github.com/user-attachments/assets/ca9b8c27-247b-40c9-a4b9-469c504507f1)
 
 
 **3. Total Sales by Outlet Tier:**
